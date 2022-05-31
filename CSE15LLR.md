@@ -29,4 +29,18 @@ May 8, 2022
 
 ---
 
+***Lab Report 4***
+
+May 22, 2022
+
+[Lab 4]()
+
+---
+
+***Lab Rpeort 5***
+
+June 5, 2022
+
+[Lab 5]()
+
 
