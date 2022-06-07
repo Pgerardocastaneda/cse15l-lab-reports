@@ -37,7 +37,7 @@ May 22, 2022
 
 ---
 
-***Lab Rpeort 5***
+***Lab Report 5***
 
 June 5, 2022
 
