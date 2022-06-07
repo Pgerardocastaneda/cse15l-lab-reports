@@ -43,4 +43,3 @@ June 5, 2022
 
 [Lab 5](https://pgerardocastaneda.github.io/LabReportsRep.md/LabReport_5/lab-report-5-week-10.html)
 
-
